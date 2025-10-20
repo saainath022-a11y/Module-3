@@ -14,7 +14,13 @@ To write a Python program to check whether the string `"google"` is a **palindro
 ## 🧾 Program
 
 Add code here
+string="google"
+print("the string is a palindrome." if string==string[::-1] else " it is not a palindrome")
 
 ## Output
+<img width="906" height="92" alt="mod 3 4" src="https://github.com/user-attachments/assets/6f5c5e03-78fd-40aa-b8ff-dc7a1e671a9a" />
 
 ## Result
+Successfully wrote a Python program to check whether the string "google" is a palindrome or not, without using built-in palindrome checking functions.
+
+
